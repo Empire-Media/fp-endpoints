@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Ignore test script
+test.py
+
+# Ignore logs folder
+logs/
